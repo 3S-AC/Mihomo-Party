@@ -1,0 +1,7 @@
+# 影视播放规则(直连)
+# 2024-08-03 07:00
+payload:
+  - DOMAIN-SUFFIX,mcjoker.xyz
+  - DOMAIN-SUFFIX,as174.com
+  - DOMAIN-SUFFIX,fuliba
+  - DOMAIN-SUFFIX,wbflb

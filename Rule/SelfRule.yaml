@@ -3,6 +3,6 @@
 payload:
   - DOMAIN-SUFFIX,mcjoker.xyz
   - DOMAIN-SUFFIX,as174.com
-  - DOMAIN-SUFFIX,fuliba
-  - DOMAIN-SUFFIX,wbflb
+  - DOMAIN-KEYWORD,fuliba
+  - DOMAIN-KEYWORD,wbflb
   - DOMAIN-SUFFIX,feedx.run

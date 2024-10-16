@@ -3,7 +3,6 @@
 payload:
 #Emby及网页（直连）
   - DOMAIN-SUFFIX,mcjoker.xyz
-  - DOMAIN-SUFFIX,as174.com
   - DOMAIN-SUFFIX,bili.rip
   - DOMAIN-KEYWORD,fuliba
   - DOMAIN-KEYWORD,wbflb

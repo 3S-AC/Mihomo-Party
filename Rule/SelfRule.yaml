@@ -8,6 +8,7 @@ payload:
   - DOMAIN-KEYWORD,fuliba
   - DOMAIN-KEYWORD,wbflb
   - DOMAIN-SUFFIX,feedx.run
+  - DOMAIN-SUFFIX,deepl.com
 #玩偶哥哥（直连）
   - DOMAIN-KEYWORD,wogg
   - DOMAIN-SUFFIX,wogg.link
